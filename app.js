@@ -1,6 +1,6 @@
 // ═══════════════════════════════════════════
 // app.js — Application Core v3.0
-// Dr El Hakima · 1ère Année Médecine
+// No one · 1ère Année Médecine
 // ═══════════════════════════════════════════
 'use strict';
 
